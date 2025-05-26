@@ -1,4 +1,4 @@
 # GhanshyamDigital-Demo
 This is my first repository.
 <br>
-Author-Shilpa Patle
+Author-Shilpa (GhanshyamDigital)
